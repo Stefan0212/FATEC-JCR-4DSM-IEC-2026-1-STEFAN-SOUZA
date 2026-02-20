@@ -1,17 +1,17 @@
 # Portfólio – Integração e Entrega Contínua – 2026/1
-## Aluno
+## 👨🏾‍💻 Aluno
 - Nome: Stefan Souza Cruz
 - LinkedIn: www.linkedin.com/in/stefan-souza
 - GitHub: https://github.com/Stefan0212
 ---
-## Estrutura
-- P1
-- P2
-- Requisitos-ABP
+## 📁 Estrutura
+- [P1](./P1-Conteudos/) 
+- [P2](./P2-Conteudos/)
+- [Requisitos-ABP](./Requisitos-ABP/)
 - Reflexoes
 ---
-## Projeto ABP
+## 📍 Projeto ABP
 Descrição do problema escolhido.
 ---
-## Aprendizados
+## 🧠 Aprendizados
 Registro reflexivo sobre evolução no semestre.
