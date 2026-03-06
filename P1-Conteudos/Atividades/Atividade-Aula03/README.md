@@ -16,3 +16,6 @@
       4. Teste de funcionamento final
       - name: Teste de Funcionamento
         run: echo "ipeline do projeto INPE executado com sucesso!"
+
+
+<img width="1017" height="433" alt="image" src="https://github.com/user-attachments/assets/a9839191-db40-4e7b-9553-6f15d337b93b" />
